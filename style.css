@@ -1,0 +1,191 @@
+
+/*
+    Company Name : Allyhealth Business Process Solutions
+    Title : Userlock Status Project
+    Author Name : Suresh Mohan
+    File Name : style.css
+    */
+
+.table-area {
+    margin-right: 0.1%;
+}
+
+/* Search Text Label */
+.search-area {
+    margin-left: 220px;
+    font-size: 40px;
+    margin-top: 30px;
+    font-family: Arial;
+}
+
+/* Status Text Label */
+.status-area {
+    font-size: 40px;
+    margin: 25px;
+    margin-left: 115px;
+    padding-top: 10px;
+}
+
+/* This Is Lights Css Code */
+.lights {
+    height: 70px;
+    width: 72px;
+    border-radius: 50%;
+    background-color: gray;
+    padding-left: 20px;
+    margin: 5px;
+    margin-left: 145px;
+    border: none;
+}
+
+/* This Is UI Page Container Css Code */
+.container {
+    margin: 1px;
+    padding: 1px;
+    align-content: center;
+}
+
+/* This Is TextBox1 Css Code To Searching Users*/
+#TextBox1 {
+    border-radius: 5px;
+    border-color: black;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    padding-top: 5px;
+    width: 100%;
+    padding-left: 10px;
+    margin-left: 220px;
+}
+
+/* This Is ImageButton1 Css Code*/
+#ImageButton1 {
+    height: 40px;
+    width: 55px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-color: none;
+    background-color: #5d2e82;
+    padding-left: 10px;
+    padding: 8px;
+}
+
+/* This Is Image1 Css Code*/
+#Image1 {
+    height: 60px;
+    width: 200px;
+    padding-left: 10px;
+    margin-bottom: 3px;
+}
+
+/* #Image1:hover {
+        transform: scale(1.1);
+    }*/
+
+/* This Is Image2 Css Code*/
+#Image2 {
+    height: 55px;
+    width: 60px;
+    margin: 1px;
+    padding-left: 1px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    order: 1;
+    margin-right: 3px;
+}
+
+/*  #Image2:hover {
+        transform: scale(1.1);
+    }*/
+
+/* This Is Navbar Css Code*/
+.navbar {
+    background-color: none;
+    border: 2px solid #5d2e82;
+    border-color: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 100%;
+}
+
+    .navbar:hover {
+        /*background-color: greenyellow;*/
+    }
+
+/* This Is Grid1 Css Code*/
+#Grid1 {
+    margin-left: 220px;
+    width: 528px;
+}
+
+#Grid2 {
+    margin-left: 375px;
+    width: 528px;
+}
+
+.user-info span {
+    padding-left: 850px;
+}
+
+    .user-info span ::after hover {
+        color: blue;
+    }
+/*This is add favorites button code*/
+#Btn_AddFavorites {
+    background-color: #5d2e82;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+    #Btn_AddFavorites:hover {
+        background-color: green;
+        box-shadow: 4px 4px 5px gray;
+    }
+/* This is Add favorite button */
+.btn {
+    margin-left: 420px;
+}
+/*This is vertical line css code*/
+.vertical-line {
+    display: flex;
+    align-items: center;
+    border-right: 2px solid #5d2e82;
+    margin-right: 25px;
+    padding-right: 25px;
+}
+
+.menu {
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+.navbar ul.menu li a {
+    text-decoration: none;
+    color: #5d2e82;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+    .navbar ul.menu li a:hover {
+        color: #7a9d3e;
+    }
+
+.Txt_AddFav {
+    padding-top: 5px;
+}
+
+h3 {
+    padding-left: 585px;
+}
+
+.Record {
+    text-align: center;
+    display: block;
+    padding-left: 220px;
+    padding-top:10px;
+}
